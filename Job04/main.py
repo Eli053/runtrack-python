@@ -1,2 +1,3 @@
-import string
-print(string.ascii_lowercase)
+alphabet = 'abcdefghijklmnopqrstuvwxyz'
+for lettre in alphabet:
+    print(lettre)

@@ -1,2 +1,3 @@
-import string
-print(string.ascii_lowercase[::-1])
+alphabet = 'abcdefghijklmnopqrstuvwxyz'
+for lettre in reversed(alphabet):
+    print(lettre)
